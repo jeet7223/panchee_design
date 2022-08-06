@@ -6307,16 +6307,18 @@ h6 {
 }
 
 .stepCard.-type-1 .stepCard__content {
-    border: 1px solid #34a853 !important;
+    border: 1px solid #fff;
+    background: #fff;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
     border-radius: 8px;
     padding: 60px;
     padding-bottom: 50px;
     display: flex;
-    background-color: #fff;
     color: var(--color-dark-1) !important;
     flex-direction: column;
     align-items: center;
     text-align: center;
+    min-height: 400px;
 }
 
 .stepCard.-type-1 .stepCard__title {
