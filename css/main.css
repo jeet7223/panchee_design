@@ -3802,7 +3802,7 @@ h6 {
     line-height: 16px;
     font-weight: 400;
     text-transform: uppercase;
-    color: #6440FB;
+    color: #34a853;
 }
 
 .blogCard.-type-1 .blogCard__title {
@@ -6787,7 +6787,7 @@ h6 {
 }
 
 .pagination.-arrows .pagination__item.is-active {
-    background-color: var(--color-purple-1);
+    background-color: var(--color-green-5);
 }
 
 .arrow-left-hover {
@@ -7901,7 +7901,7 @@ h6 {
 .tabs.-pills .tabs__controls .tabs__button.is-active {
     color: var(--color-green-5) !important;
     font-weight: 500;
-    background-color: var(--color-purple-3);
+    background-color: #f4fef1;
 }
 
 .tabs.-pills-2 .tabs__controls .tabs__button.is-active {
@@ -9714,7 +9714,7 @@ div[data-slider]>input[type=range]::-ms-tooltip {
 }
 
 .text-green-1 {
-    color: var(--color-green-1);
+    color: var(--color-green-5);
 }
 
 .text-green-2 {
